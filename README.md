@@ -646,6 +646,7 @@ Repeat buyers were identified using the condition of having **more than 5 previo
 
 The cleaned and analyzed data was presented through an interactive
 **Customer Behavior Dashboard** in Power BI.
+<img width="1342" height="728" alt="image" src="https://github.com/user-attachments/assets/304a738f-6d5d-4c0c-9c75-bdb34d9ad4b7" />
 
 The dashboard combines KPI cards, charts, and filters to provide a
 high-level view of customer behavior.
